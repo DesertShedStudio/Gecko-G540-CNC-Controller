@@ -1,12 +1,18 @@
 # Gecko G540 CNC Controller
 ***
-![G540 Controller](https://github.com/509Maker/Gecko-G540-CNC-Controller/blob/master/Images/G540_Controller0.jpg?raw=true)
+![G540 Controller](https://github.com/DesertShedStudio/Gecko-G540-CNC-Controller/blob/master/Images/G540_Controller0.jpg?raw=true)
 
 #### Don’t be held back by a parallel port!
 
 ***
+## Update: 12/05/2024
 
-509Maker’s G540 USB CNC Controller is designed to be a plug and play solution for your G540 driver when using the GRBL or Estlcam firmware. 
+G540 USB CNC Controller I designed when running the "509Maker" website. Archived here so owners of the controller can still access original source files / documentation. 
+Newer options now exist! 
+
+***
+
+My G540 USB Controller is designed to be a plug and play solution for the Gecko G540 driver when using GRBL or Estlcam firmware. 
 
 * [GRBL](https://github.com/gnea/grbl) : Grbl is free software, released under the GPLv3 license.
 * [Estlcam](https://www.estlcam.de/) : Affordable Windows Cam / Control software.
@@ -15,7 +21,7 @@
 ## Controller Overview
 
 * Compatable with Estlcam and GRBL Latest releases.
-* [custom Optiboot Bootloader](https://github.com/509Maker/Optiboot-for-grbl) : that disables D13 from toggling during a power cycle. 
+* [custom Optiboot Bootloader](https://github.com/DesertShedStudio/Optiboot-for-grbl) : that disables D13 from toggling during a power cycle. 
 * Authentic FTDI FT232RL USB bridge
 * Atmega328P core processor
 * ICSP header for atmega328p
@@ -47,9 +53,8 @@ As you will see in the grbl config.h file the defualt behavior of Optiboot to to
 
 ### Best Way To Show Support For My Work
 
-* [Shop On Amazon](https://amzn.to/2LtLY6S) : If you are in the U.S.A you can use my amazon affiliate link to do your regular amazon shoping at no additinal cost to you ! I recive a small amount when items are purchased through my link. 
-* [Paypal Donations](https://www.paypal.com) : Can be sent to Contact@509maker.com
-* [Blank PCB](https://www.509maker.com/product/pcb-cnc-controller/) : From time to time I will have blank cnc controller pcb's avalible in single quantity. Boards are made by Oshpark. When you only need one board and want to support the designer it is a great choice. 
+* [Shop On Amazon](https://amzn.to/2LtLY6S) : You can use my amazon affiliate link to do your regular amazon shoping at no additinal cost to you ! I recive a small amount when items are purchased through my link. 
+* [Blank PCB]: From time to time I will have blank cnc controller pcb's avalible in single quantity. Update: 12/05/2024 Boards are no longer available! 
 
 # Thank You
 
